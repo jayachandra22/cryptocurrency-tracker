@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.header,.content,.card{
+  background-color: #6c6868d9 !important;
+  color: whitesmoke;
+}
